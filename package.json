@@ -118,7 +118,7 @@
 		"@nestjs/swagger": "^7.1.1",
 		"@nestjs/throttler": "^5.1.1",
 		"@nestjs/websockets": "^10.0.5",
-		"@sentry/nestjs": "^8.30.0",
+		"@sentry/nestjs": "^8.49.0",
 		"@sentry/profiling-node": "^8.30.0",
 		"@ssut/nestjs-sqs": "^2.1.0",
 		"@swc/cli": "^0.5.2",
